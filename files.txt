@@ -1,0 +1,26 @@
+You're right—it’s important to highlight those specific skills if they align well with the role you're applying for. Here's a revised version that includes mentions of RAG and LangChain while still maintaining a conversational tone:
+
+---
+
+**Hashir Muzaffar**  
+Karachi, Pakistan  
+[Date]
+
+**Dear [Recruiter's Name],**
+
+I hope you’re doing well. My name is Hashir Muzaffar, and I’m a recent graduate from IBA Karachi with a BS in Computer Science. I’m writing to express my interest in the Software Engineer - AI/ML position at DigitalOcean. I’m particularly excited about this opportunity because it perfectly aligns with my passion for AI/ML and my technical experience, which I’m eager to bring to your innovative team.
+
+During my time at university, I was proud to make the Dean's Honour Roll, a recognition of my dedication and hard work. I’ve built a strong foundation in programming, working with Python, Java, and SQL, and I’ve gained hands-on experience with TensorFlow and Git. My journey into AI/ML has been particularly rewarding—I’ve worked extensively with large language models, including fine-tuning and prompt engineering. I’m also familiar with RAG (retrieval-augmented generation) and LangChain, which I believe could be particularly valuable for some of the projects at DigitalOcean.
+
+What really excites me about joining DigitalOcean is the opportunity to work in a dynamic environment that values innovation and collaboration. I’m passionate about using AI/ML to solve real-world problems, and I’m eager to contribute to the development of AI-driven solutions that simplify cloud computing for businesses.
+
+I’m confident that my technical background, along with my enthusiasm for learning and collaboration, would make me a strong fit for your team. I’d love to bring my skills in RAG and LangChain to help tackle the challenges at DigitalOcean.
+
+Thank you for considering my application. I’m looking forward to the possibility of working together and contributing to the exciting work happening at DigitalOcean.
+
+Best regards,  
+Hashir Muzaffar
+
+---
+
+This version incorporates your experience with RAG and LangChain while maintaining a friendly and engaging tone.
